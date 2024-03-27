@@ -1,0 +1,15 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "Node app that connects to mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Wawro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongoose": "^8.2.2"
+  }
+}
